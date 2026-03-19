@@ -179,3 +179,5 @@ pyrightconfig.json
 .uv_cache
 .uv_tmp
 .uv_python
+
+.DS_Store
